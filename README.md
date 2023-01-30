@@ -29,17 +29,17 @@ A Challenge to make sure you start with your goals today , don’t procrastinate
 
 | Name | Repository Link | Status | Start Date | Companies Ongoing | Companies Covered |
 | ---- | --------------- | ------ | ---------- | ----------------- | ----------------- |
-| Bharti | https://github.com/bhartik021/6Companies30Days | Done | Jan 1, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
-| Ahmdullah | https://github.com/Ahmdhadi2004/-6Companies30Days | Done | Jan 5, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
-| Somya | https://github.com/Somya2010/-6companies30days | Done | Jan 6, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
-| Kapil Vaishnav | https://github.com/kapil5849/6Companies30Days | In Progress | Jan 1, 2023 | `Google` `Amazon` | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` |
-| Deepali Thakur | https://github.com/deepalithakur17/-6companies30days | In Progress | Jan 2, 2023 | `Microsoft` `Goldman Sach` `Adobe` | None |
-| Niti Gautam | https://github.com/Niti1605/-6companies30days-RevisewithArsh | In Progress | Jan 1, 2023 | None | None |
-| Krishnaraj | https://github.com/Krishnaraj-shankar/6Companies30Days | In Progress | Jan 1, 2023 | None | None |
-| Divyanshi | https://github.com/Divyanshi39/6-companies-30-days-challenge-2023 | In Progress | Jan 2, 2023 | None | None |
-| Kelvi Methaniya | https://github.com/KelviMethaniya/kelvi | In Progress | Jan 2, 2023 | None | None |
-| Mridu Arora | https://github.com/Mridu03/6Companies30Days | In Progress | Jan 2, 2023 | None | None |
-| Isha Jain | https://github.com/Isha72/-ReviseWithArsh | In Progress | Jan 2, 2023 | None | None |
+| Bharti | [Link](https://github.com/bhartik021/6Companies30Days) | Done | Jan 1, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
+| Ahmdullah | [Link](https://github.com/Ahmdhadi2004/-6Companies30Days) | Done | Jan 5, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
+| Somya | [Link](https://github.com/Somya2010/-6companies30days) | Done | Jan 6, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
+| Kapil Vaishnav | [Link](https://github.com/kapil5849/6Companies30Days) | In Progress | Jan 1, 2023 | `Google` `Amazon` | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` |
+| Deepali Thakur | [Link](https://github.com/deepalithakur17/-6companies30days) | In Progress | Jan 2, 2023 | `Microsoft` `Goldman Sach` `Adobe` | None |
+| Niti Gautam | [Link](https://github.com/Niti1605/-6companies30days-RevisewithArsh) | In Progress | Jan 1, 2023 | None | None |
+| Krishnaraj | [Link](https://github.com/Krishnaraj-shankar/6Companies30Days) | In Progress | Jan 1, 2023 | None | None |
+| Divyanshi | [Link](https://github.com/Divyanshi39/6-companies-30-days-challenge-2023) | In Progress | Jan 2, 2023 | None | None |
+| Kelvi Methaniya | [Link](https://github.com/KelviMethaniya/kelvi) | In Progress | Jan 2, 2023 | None | None |
+| Mridu Arora | [Link](https://github.com/Mridu03/6Companies30Days) | In Progress | Jan 2, 2023 | None | None |
+| Isha Jain | [Link](https://github.com/Isha72/-ReviseWithArsh) | In Progress | Jan 2, 2023 | None | None |
 
 
 
