@@ -46,7 +46,7 @@ _<h1 align="center"> ReviseWithArsh #6Companies30Days Challenge 2023 🚀</h1>_
 | Bharti | [Link](https://github.com/bhartik021/6Companies30Days) | Done | Jan 1, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
 | Ahmdullah | [Link](https://github.com/Ahmdhadi2004/-6Companies30Days) | Done | Jan 5, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
 | Somya | [Link](https://github.com/Somya2010/-6companies30days) | Done | Jan 6, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
-| Kapil Vaishnav | [Link](https://github.com/kapil5849/6Companies30Days) | In Progress | Jan 1, 2023 | `Google` `Amazon` | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` |
+| Kapil Vaishnav | [Link](https://github.com/kapil5849/6Companies30Days) | Done | Jan 1, 2023 |  | `Microsoft` `Goldman Sach` `Adobe` `Flipkart` `Google` `Amazon` |
 | Deepali Thakur | [Link](https://github.com/deepalithakur17/-6companies30days) | In Progress | Jan 2, 2023 | `Microsoft` `Goldman Sach` `Adobe` | None |
 | Niti Gautam | [Link](https://github.com/Niti1605/-6companies30days-RevisewithArsh) | In Progress | Jan 1, 2023 | None | None |
 | Krishnaraj | [Link](https://github.com/Krishnaraj-shankar/6Companies30Days) | In Progress | Jan 1, 2023 | None | None |
