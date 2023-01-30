@@ -24,6 +24,16 @@ _<h1 align="center"> ReviseWithArsh #6Companies30Days Challenge 2023 🚀</h1>_
 ## _Registration Link:_
 [https://lnkd.in/dHNiN3Xy](https://lnkd.in/dHNiN3Xy)
 
+## _Companies:_
+| S.No | Company | Questions Link | Date | Status |
+| ---- | ------- | -------------- | ---- | ------ |
+| 1    | Microsoft | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 1 Jan - 5 Jan | Completed | 
+| 2    | Goldman Sachs | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 6 Jan - 10 Jan | Completed | 
+| 3    | Adobe | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 11 Jan - 15 Jan | Completed | 
+| 4    | Flipkart | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 16 Jan - 20 Jan | Completed | 
+| 5    | Google | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 21 Jan - 25 Jan | Completed | 
+| 6    | Amazon | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 26 Jan - 30 Jan | Running | 
+
 ## _Progress Board:_
 | Name | Repository Link | Status | Start Date | Companies Ongoing | Companies Covered |
 | ---- | --------------- | ------ | ---------- | ----------------- | ----------------- |
