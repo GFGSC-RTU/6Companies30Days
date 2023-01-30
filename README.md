@@ -1,10 +1,10 @@
 # 6Companies30Days
 
-ReviseWithArsh #6Companies30Days C𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝟮𝟬𝟮𝟯
+A Challenge to make sure you start with your goals today , don’t procrastinate and don’t let your college decide your future!
+
+_<h1 align="center"> ReviseWithArsh #6Companies30Days Challenge 2023 🚀</h1>_
 
 ![Untitled_(Banner_(Landscape))-min_(1)](https://user-images.githubusercontent.com/111368327/215500621-eb89221e-707b-42da-95c5-04d1f23c34ce.png)
-
-A Challenge to make sure you start with your goals today , don’t procrastinate and don’t let your college decide your future!
 
 > *For complete details about the Challenge , go through the video: [https://lnkd.in/df3ndp_N](https://lnkd.in/df3ndp_N)*
 
