@@ -36,6 +36,10 @@ _<h1 align="center"> ReviseWithArsh #6Companies30Days Challenge 2023 🚀</h1>_
 | 5    | Google | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 21 Jan - 25 Jan | Completed | 
 | 6    | Amazon | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 26 Jan - 30 Jan | Running | 
 
+> Go ahead! All the best :) Please do share your feedbacks on Linkedin tagging @Arsh Goyal , hope this challenge was helpful
+
+***
+
 ## _Progress Board:_
 | Name | Repository Link | Status | Start Date | Companies Ongoing | Companies Covered |
 | ---- | --------------- | ------ | ---------- | ----------------- | ----------------- |
@@ -51,6 +55,8 @@ _<h1 align="center"> ReviseWithArsh #6Companies30Days Challenge 2023 🚀</h1>_
 | Mridu Arora | [Link](https://github.com/Mridu03/6Companies30Days) | In Progress | Jan 2, 2023 | None | None |
 | Isha Jain | [Link](https://github.com/Isha72/-ReviseWithArsh) | In Progress | Jan 2, 2023 | None | None |
 
+> Next steps will be there in a new video!
 
+***
 
 **By,  GFG Student Chapter RTU  X  Arsh Goyal**
