@@ -34,7 +34,7 @@ _<h1 align="center"> ReviseWithArsh #6Companies30Days Challenge 2023 🚀</h1>_
 | 3    | Adobe | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 11 Jan - 15 Jan | Completed | 
 | 4    | Flipkart | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 16 Jan - 20 Jan | Completed | 
 | 5    | Google | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 21 Jan - 25 Jan | Completed | 
-| 6    | Amazon | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 26 Jan - 30 Jan | Running | 
+| 6    | Amazon | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 26 Jan - 30 Jan | Completed | 
 
 > Go ahead! All the best :) Please do share your feedbacks on Linkedin tagging @Arsh Goyal , hope this challenge was helpful
 
